@@ -1,0 +1,1 @@
+frames = int(input("enter the no. of frames you want to send"))
